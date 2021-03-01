@@ -1,5 +1,19 @@
-# AKAAD_Media_Player
+# Building a Media Player using java
 
-# Software Requirements
-  - jdk==15
-  - javafx==15
+# Libraries required
+    - javafx
+    - jfeonix
+
+# Required applications for development
+    - Intellij
+    - Scene Builder
+    - StarUML
+
+# How to Run?
+    - after the required applications are installed
+    - just run the Main.java
+
+# Contributors
+    - Divy Agrawal     - Ambika Singh Kaushik     - Aditya Aggarwal
+
+# Working repository link : https://github.com/divy3011/Media-Player
