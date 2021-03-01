@@ -16,4 +16,4 @@
 # Contributors
     - Divy Agrawal     - Ambika Singh Kaushik     - Aditya Aggarwal
 
-# Working repository link : https://github.com/divy3011/Media-Player
+# Collab repository link : https://github.com/divy3011/Media-Player
